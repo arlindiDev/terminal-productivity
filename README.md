@@ -6,7 +6,7 @@
 2. `brew install gh`
 
 ### Setup terminal aliases
-1. open ~/.zshrc
+1. run `open ~/.zshrc`
 2. add the following to the `.zshrc` file:
 ```
 # build and launch app from terminal
