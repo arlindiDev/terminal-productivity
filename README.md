@@ -20,6 +20,7 @@ alias ghv='gh pr view --web'
 alias ghc='gh pr comment --body "ci-build"'
 alias ghcreate='gh pr create --fill'
 alias gitap='git add . && git commit --amend --no-edit && git push -f'
+alias gitmp='git checkout master && git pull' 
 
 GITHUB_TOKEN=<GITHUB_TOKEN>
 
